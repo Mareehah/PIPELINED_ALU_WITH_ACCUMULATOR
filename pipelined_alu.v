@@ -1,8 +1,5 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
 // Create Date: 07.11.2026 11:04:40
 // Design Name: 
 // Module Name: pipelined_alu
